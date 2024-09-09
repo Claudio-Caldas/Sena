@@ -5,14 +5,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #91a79183;
 }
 .container {
     background-color: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    text-align: center;
+    text-align: center;   
 }
 .numbers {
     display: grid;
@@ -53,10 +53,11 @@ button {
 }
 #resetButton {
     display: none;
-    background-color: #f44336;
+    background-color: #4CAF50;
 }
 .highlight {
     font-size: 1.2em;
     color: #4CAF50;
     margin-top: 10px;
 }
+
